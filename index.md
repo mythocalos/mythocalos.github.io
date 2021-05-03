@@ -1,4 +1,4 @@
-## This is the main page
+## Mythocalos - ASP.NET Core
 
 <section id="downloads" class="clearfix">
     <a href="https://mythocalos.github.io/archive/master.zip" id="download-zip" class="button"><span>Download .zip</span></a>
